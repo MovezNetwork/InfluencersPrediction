@@ -1,7 +1,0 @@
-/venv/
-/documentation/_build
-.DS_Store
-/data
-/output
-**/__pycache__/
-/.idea/
